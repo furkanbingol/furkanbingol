@@ -22,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanbingol&show_icons=true&locale=en&theme=apprentice" alt="furkanbingol" height="155"/></p>
 
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br><br>
 <a href="https://www.leetcode.com/furkanbingol" target="blank"><img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="furkanbingol" height="27" width="85" /></a>
 <a href="https://www.hackerrank.com/furkanbingol" target="blank"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="furkanbingol" height="27" width="95" /></a>
 
-<br>
+<br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanbingol&label=Profile%20views&color=red&style=plastic" alt="furkanbingol" /> </p>
