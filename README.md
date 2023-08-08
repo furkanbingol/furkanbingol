@@ -18,9 +18,9 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=swift,java,py,c,cs,html,css,firebase,mysql,postgres,azure,aws,linux,github,git" alt="skills logos" /> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanbingol&show_icons=true&locale=en&layout=compact&theme=apprentice&show_icons=true" alt="furkanbingol" height="155" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=furkanbingol&show_icons=true&locale=en&layout=compact&theme=apprentice&show_icons=true" alt="furkanbingol" height="155" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanbingol&show_icons=true&locale=en&theme=apprentice" alt="furkanbingol" height="155"/></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=furkanbingol&show_icons=true&locale=en&theme=apprentice" alt="furkanbingol" height="155"/></p>
 
 </br></br></br></br></br></br></br><br>
 <a href="https://www.leetcode.com/furkanbingol" target="blank"><img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="furkanbingol" height="27" width="85" /></a>
