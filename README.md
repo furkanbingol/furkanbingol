@@ -1,4 +1,4 @@
-[![MasterHead](https://five.agency/wp-content/uploads/2022/03/iOS-Starter-Kit-Blog-Cover.jpg)]()
+![ios-mobile-wallpaper](https://github.com/user-attachments/assets/0e700966-f67b-42c1-ad4f-c50eb835cea4)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">iOS Developer</h3>
